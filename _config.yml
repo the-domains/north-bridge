@@ -1,0 +1,28 @@
+name: North Bridge
+favicon: null
+layout_spectrum: 0.0089502923656255
+typography_spectrum: 0.4341244790703058
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.05172599502839148
+  lightness: 0.4874429109040648
+  saturation: 0.5937840652186424
+  rhythmicContrast: 0.9968301067128778
+purpose: []
